@@ -1,0 +1,66 @@
+[submodule "cpp/stl/CppClassDatatypes"]
+	path = cpp/stl/CppClassDatatypes
+	url = https://github.com/Shadowsith/CppClassDatatypes.git
+[submodule "cpp/stl/stl-dotnet"]
+	path = cpp/stl/stl-dotnet
+	url = https://github.com/Shadowsith/stl-dotnet
+[submodule "cpp/qt/qdocker"]
+	path = cpp/qt/qdocker
+	url = https://github.com/Shadowsith/qdocker
+[submodule "cpp/qt/qpicospeaker"]
+	path = cpp/qt/qpicospeaker
+	url = https://github.com/Shadowsith/qpicospeaker
+[submodule "cpp/stl/cli-textformat-cpp"]
+	path = cpp/stl/cli-textformat-cpp
+	url = https://github.com/Shadowsith/cli-textformat-cpp
+[submodule "cpp/qt/qpdfunify"]
+	path = cpp/qt/qpdfunify
+	url = https://github.com/Shadowsith/qpdfunify
+[submodule "cpp/qt/qfileconvert"]
+	path = cpp/qt/qfileconvert
+	url = https://github.com/Shadowsith/qfileconvert
+[submodule "cpp/stl/MySqlConn"]
+	path = cpp/stl/MySqlConn
+	url = https://github.com/Shadowsith/MySqlConn
+[submodule "java/school"]
+	path = java/school
+	url = https://github.com/Shadowsith/school
+[submodule "java/cli-textformat-java"]
+	path = java/cli-textformat-java
+	url = https://github.com/Shadowsith/cli-textformat-java
+[submodule "python/mycroft-youtube-mpv"]
+	path = python/mycroft-youtube-mpv
+	url = https://github.com/Shadowsith/mycroft-youtube-mpv
+[submodule "python/mycroft-app-launcher"]
+	path = python/mycroft-app-launcher
+	url = https://github.com/Shadowsith/mycroft-app-launcher
+[submodule "python/cli-textformat-py"]
+	path = python/cli-textformat-py
+	url = https://github.com/Shadowsith/cli-textformat-py
+[submodule "ruby/cli-textformat-ruby"]
+	path = ruby/cli-textformat-ruby
+	url = https://github.com/Shadowsith/cli-textformat-ruby
+[submodule "ruby/mumble-ruby-pluginbot-plugins"]
+	path = ruby/mumble-ruby-pluginbot-plugins
+	url = https://github.com/Shadowsith/mumble-ruby-pluginbot-plugins
+[submodule "vim/vim-minify"]
+	path = vim/vim-minify
+	url = https://github.com/Shadowsith/vim-minify
+[submodule "vim/vim-dotnet"]
+	path = vim/vim-dotnet
+	url = https://github.com/Shadowsith/vim-dotnet
+[submodule "vim/kotlincomplete.vim"]
+	path = vim/kotlincomplete.vim
+	url = https://github.com/Shadowsith/kotlincomplete.vim
+[submodule "vim/TermuxVimIDE"]
+	path = vim/TermuxVimIDE
+	url = https://github.com/Shadowsith/TermuxVimIDE
+[submodule "vim/TheVimIDE"]
+	path = vim/TheVimIDE
+	url = https://github.com/Shadowsith/TheVimIDE
+[submodule "web/lpad"]
+	path = web/lpad
+	url = https://github.com/Shadowsith/lpad
+[submodule "web/single_page_application"]
+	path = web/single_page_application
+	url = https://github.com/Shadowsith/single_page_application
